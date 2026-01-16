@@ -33,7 +33,9 @@ Most network security tools raise alerts but fail to explain *why* an event is r
 - ⚙️ **API-Ready Architecture**  
   Designed for seamless backend ↔ frontend integration.
 
-<img width="338" height="394" alt="image" src="https://github.com/user-attachments/assets/549114e3-ad30-41b0-af19-3b07c7dbbb48" />
 
 ## 🏗️ System Architecture
+<img width="338" height="394" alt="image" src="https://github.com/user-attachments/assets/549114e3-ad30-41b0-af19-3b07c7dbbb48" />
+
+
 
